@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "node ./build.js",
+    "start": "node ./build/main.js",
+    "dev": "node ./build.js -- -w"
+  },
+  "dependencies": {
+    "@easy-rpc/node": "latest"
+  },
+  "devDependencies": {
+    "esbuild": "^0.15.13",
+    "fs-extra": "^10.1.0"
+  }
+}
