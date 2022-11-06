@@ -6,6 +6,11 @@ The role of this project is "Frontend". See the `erpc.json` and `../sources/role
 
 # Available scripts:
 
+To install the required dependencies
+```
+npm i
+```
+
 For building the project with vite
 ```
 npm run build

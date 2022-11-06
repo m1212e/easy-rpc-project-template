@@ -6,6 +6,11 @@ The role of this project is "Backend". See the `erpc.json` and `../sources/roles
 
 # Available scripts:
 
+To install the required dependencies
+```
+npm i
+```
+
 For building the project with esbuild
 ```
 npm run build
